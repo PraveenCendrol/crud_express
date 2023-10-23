@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+      "name": "Electronics"
+    },
+    {
+      "id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+      "name": "Appliances"
+    },
+    {
+      "id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+      "name": "Kitchen"
+    },
+    {
+      "id": "2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7",
+      "name": "Furniture"
+    },
+    {
+      "id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+      "name": "Clothing"
+    },
+    {
+      "id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+      "name": "Sports & Outdoors"
+    },
+    {
+      "id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+      "name": "Home & Garden"
+    },
+    {
+      "id": "6f7-2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5",
+      "name": "Toys & Games"
+    },
+    {
+      "id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+      "name": "Books"
+    },
+    {
+      "id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+      "name": "Jewelry"
+    }
+  ]
+}

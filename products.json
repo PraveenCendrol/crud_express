@@ -1,0 +1,2145 @@
+[
+  {
+    "_id": "1a2b3c4d5-6e7f8g9h-0i1j2k3l4m5n6o",
+    "name": "Smartphone",
+    "description": "High-end smartphone with advanced features.",
+    "price": 599.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "John", "text": "Great phone with an excellent camera." },
+      { "user": "Emily", "text": "Fast and reliable performance." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "2p3q4r5s-6t7u8v9w-0x1y2z3a4b5c6d",
+    "name": "Laptop",
+    "description": "Powerful laptop for work and gaming.",
+    "price": 999.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": "Michael",
+        "text": "Great laptop for gaming and productivity."
+      },
+      { "user": "Sophia", "text": "Sleek design and fast performance." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "3e4f5g6h-7i8j9k0l-1m2n3o4p5q6r",
+    "name": "Headphones",
+    "description": "Over-ear headphones with noise-cancelling technology.",
+    "price": 149.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "user": "Olivia",
+        "text": "Fantastic sound quality and comfortable to wear."
+      },
+      {
+        "user": "William",
+        "text": "Effective noise cancellation for a peaceful experience."
+      }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "4q5r6s7t-8u9v0w1x-2y3z4a5b6c7d",
+    "name": "Microwave Oven",
+    "description": "Compact microwave for quick heating and cooking.",
+    "price": 89.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Aiden", "text": "Convenient and easy to use for reheating." },
+      {
+        "user": "Sofia",
+        "text": "Fits well in any kitchen and works efficiently."
+      }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "5e6f7g8h-9i0j1k2l-3m4n5o6p7q",
+    "name": "Coffee Maker",
+    "description": "Automatic coffee maker for brewing your favorite coffee.",
+    "price": 79.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Liam", "text": "Makes a great cup of coffee every morning." },
+      { "user": "Ava", "text": "Easy to use and clean." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "6r7s8t9u-0v1w2x3y4z5a6b7c",
+    "name": "Toaster",
+    "description": "2-slice toaster for perfectly toasted bread and bagels.",
+    "price": 39.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Noah", "text": "Great for breakfast, toasts evenly." },
+      { "user": "Lily", "text": "Compact and does the job well." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "7s8t9u0v-1w2x3y4z5a6b7c8d",
+    "name": "Blender",
+    "description": "High-speed blender for making smoothies and shakes.",
+    "price": 59.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Lucas", "text": "Excellent blending performance!" },
+      { "user": "Mia", "text": "Easy to clean and use." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "8t9u0v1w-2x3y4z5a6b7c8d9e",
+    "name": "Food Processor",
+    "description": "Versatile food processor for chopping, slicing, and more.",
+    "price": 79.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Emma", "text": "A must-have in the kitchen for meal prep." },
+      { "user": "Oliver", "text": "Saves time and makes cooking easier." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "9u0v1w2x-3y4z5a6b7c8d9e0f",
+    "name": "Refrigerator",
+    "description": "Large refrigerator with ample storage space.",
+    "price": 699.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Avery", "text": "Keeps food fresh and organized." },
+      { "user": "Ethan", "text": "Spacious and energy-efficient." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "0v1w2x3y4z-5a6b7c8d9e0f1g",
+    "name": "Washing Machine",
+    "description": "Front-loading washing machine with multiple cycles.",
+    "price": 499.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Harper", "text": "Cleans clothes effectively and quietly." },
+      { "user": "Logan", "text": "Saves time and water." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "1w2x3y4z5a-6b7c8d9e0f1g2h",
+    "name": "Air Fryer",
+    "description": "Oil-free air fryer for healthier cooking.",
+    "price": 79.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "user": "Sophie",
+        "text": "Crispy and delicious results with less oil."
+      },
+      { "user": "Jackson", "text": "Versatile and easy to use." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "2x3y4z5a6b-7c8d9e0f1g2h3i",
+    "name": "Rice Cooker",
+    "description": "Automatic rice cooker for perfectly cooked rice.",
+    "price": 49.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Mason", "text": "Great for rice and steamed dishes." },
+      { "user": "Luna", "text": "Consistently cooks fluffy rice." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "3y4z5a6b7c-8d9e0f1g2h3i4j",
+    "name": "Dishwasher",
+    "description": "Efficient dishwasher for easy cleanup.",
+    "price": 399.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Grayson", "text": "Saves time and effort on dishwashing." },
+      { "user": "Layla", "text": "Quiet and effective cleaning." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "4z5a6b7c8d-9e0f1g2h3i4j5k",
+    "name": "Oven",
+    "description": "Electric oven for baking and roasting.",
+    "price": 499.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Liam", "text": "Bakes evenly and with precision." },
+      { "user": "Ava", "text": "Spacious interior for large meals." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "5a6b7c8d9e-0f1g2h3i4j5k6l",
+    "name": "Vacuum Cleaner",
+    "description": "Bagless vacuum cleaner for efficient cleaning.",
+    "price": 129.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Olivia", "text": "Powerful suction and easy to maneuver." },
+      { "user": "William", "text": "Cleans carpets and floors thoroughly." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "6b7c8d9e0f-1g2h3i4j5k6l7m",
+    "name": "Mixer Grinder",
+    "description": "Versatile mixer grinder for grinding and blending.",
+    "price": 69.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Mia", "text": "Great for making smoothies and masalas." },
+      { "user": "Lucas", "text": "Durable and efficient grinding." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "7c8d9e0f1g-2h3i4j5k6l7m8n",
+    "name": "Electric Kettle",
+    "description": "Fast-boiling electric kettle for hot beverages.",
+    "price": 29.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Ethan", "text": "Boils water quickly and safely." },
+      { "user": "Oliver", "text": "Convenient for tea and coffee lovers." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "8d9e0f1g2h-3i4j5k6l7m8n9o",
+    "name": "Iron",
+    "description": "Steam iron for wrinkle-free clothes.",
+    "price": 34.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.1,
+    "reviews": [
+      { "user": "Sofia", "text": "Smooths out creases with ease." },
+      { "user": "Aiden", "text": "Lightweight and effective ironing." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "9e0f1g2h3i4-0j1k2l3m4n5o6p",
+    "name": "Hair Dryer",
+    "description": "Professional hair dryer for quick drying and styling.",
+    "price": 49.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4,
+    "reviews": [
+      { "user": "Luna", "text": "Dries hair fast and reduces frizz." },
+      { "user": "Grayson", "text": "Great for salon-like results at home." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "1g2h3i4j5k6-2l3m4n5o6p7q",
+    "name": "Toaster Oven",
+    "description": "Countertop toaster oven for versatile cooking.",
+    "price": 69.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Logan", "text": "Bakes, broils, and toasts perfectly." },
+      {
+        "user": "Layla",
+        "text": "Saves time and energy compared to a full-size oven."
+      }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "2h3i4j5k6l-3m4n5o6p7q8r",
+    "name": "Stand Mixer",
+    "description": "Powerful stand mixer for baking and mixing.",
+    "price": 119.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Mason", "text": "Great for making dough and batter." },
+      { "user": "Luna", "text": "Sturdy and reliable for baking projects." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "3i4j5k6l7m-4n5o6p7q8r9s",
+    "name": "Slow Cooker",
+    "description": "Programmable slow cooker for flavorful meals.",
+    "price": 59.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Harper", "text": "Makes delicious stews and roasts." },
+      { "user": "Oliver", "text": "Convenient for busy days, set and forget." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "4j5k6l7m8n-5o6p7q8r9s0t",
+    "name": "Food Dehydrator",
+    "description": "Dehydrator for drying fruits, vegetables, and jerky.",
+    "price": 79.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Sophie", "text": "Great for making healthy snacks." },
+      { "user": "Jackson", "text": "Quiet and efficient dehydrating." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "5k6l7m8n9o-6p7q8r9s0t1u",
+    "name": "Espresso Machine",
+    "description": "Espresso machine for café-quality coffee at home.",
+    "price": 299.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Mason", "text": "Makes delicious espressos and cappuccinos." },
+      {
+        "user": "Luna",
+        "text": "Barista-level coffee in the comfort of your home."
+      }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "6l7m8n9o0p-7q8r9s0t1u2v",
+    "name": "Juicer",
+    "description": "Juicer for extracting fresh and healthy juices.",
+    "price": 89.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Olivia", "text": "Great for making fresh orange juice." },
+      { "user": "William", "text": "Easy to clean and use." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "7m8n9o0p1q-8r9s0t1u2v3w",
+    "name": "Air Purifier",
+    "description": "HEPA air purifier for clean and fresh air.",
+    "price": 129.99,
+    "category_id": "d4e5f6a7-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "user": "Sophie",
+        "text": "Improves indoor air quality and reduces allergens."
+      },
+      { "user": "Jackson", "text": "Quiet and effective air purification." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "8n9o0p1q2r-9s0t1u2v3w4x",
+    "name": "LED TV",
+    "description": "Smart LED TV for high-quality entertainment.",
+    "price": 499.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Avery", "text": "Crisp and clear picture quality." },
+      { "user": "Ethan", "text": "Great for streaming and gaming." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "9o0p1q2r3s-0t1u2v3w4x5y",
+    "name": "Gaming Console",
+    "description": "Gaming console for immersive gameplay.",
+    "price": 299.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Harper", "text": "Hours of fun and adventure." },
+      { "user": "Logan", "text": "Top-notch gaming experience." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "0p1q2r3s4t-1u2v3w4x5y6z",
+    "name": "Smartwatch",
+    "description": "Feature-packed smartwatch for health and connectivity.",
+    "price": 199.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Oliver", "text": "Tracks fitness and keeps you connected." },
+      { "user": "Layla", "text": "Sleek and functional smartwatch." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "1q2r3s4t5u-2v3w4x5y6z7a",
+    "name": "Home Theater System",
+    "description": "Home theater system for cinematic audio and video.",
+    "price": 399.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Mia", "text": "Immersive sound and stunning visuals." },
+      {
+        "user": "Lucas",
+        "text": "Transforms your living room into a mini-theater."
+      }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "2r3s4t5u6v-3w4x5y6z7a8b",
+    "name": "Refrigerator",
+    "description": "Large refrigerator with ample storage space.",
+    "price": 699.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Appliances",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Avery", "text": "Keeps food fresh and organized." },
+      { "user": "Ethan", "text": "Spacious and energy-efficient." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "3s4t5u6v7w-4x5y6z7a8b9c",
+    "name": "Cookware Set",
+    "description": "Complete cookware set for versatile cooking.",
+    "price": 129.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Aiden", "text": "High-quality cookware for every chef." },
+      { "user": "Sofia", "text": "Durable and easy to clean." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "4t5u6v7w8x-5y6z7a8b9c0a",
+    "name": "Coffee Grinder",
+    "description": "Burr coffee grinder for fresh and flavorful coffee.",
+    "price": 49.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Liam", "text": "Grinds coffee beans to perfection." },
+      { "user": "Ava", "text": "Consistent and uniform coffee grounds." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "5u6v7w8x9y-6z7a8b9c0a1e",
+    "name": "Dinnerware Set",
+    "description": "Elegant dinnerware set for serving meals.",
+    "price": 69.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Noah", "text": "Beautiful and durable dinnerware." },
+      { "user": "Lily", "text": "Perfect for special occasions." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "6v7w8x9y0z-7a8b9c0a1e2d",
+    "name": "Cutlery Set",
+    "description": "High-quality cutlery set for everyday use.",
+    "price": 39.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Liam", "text": "Sharp and reliable knives and forks." },
+      { "user": "Mia", "text": "Ergonomic design for comfortable use." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "7w8x9y0z1a-8b9c0a1e2d3a4b",
+    "name": "Blender",
+    "description": "High-speed blender for making smoothies and shakes.",
+    "price": 59.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Lucas", "text": "Excellent blending performance!" },
+      { "user": "Mia", "text": "Easy to clean and use." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "8x9y0z1a2b-9c0a1e2d3a4b5c",
+    "name": "Refrigerator",
+    "description": "Large refrigerator with ample storage space.",
+    "price": 699.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Avery", "text": "Keeps food fresh and organized." },
+      { "user": "Ethan", "text": "Spacious and energy-efficient." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "9y0z1a2b3c-0a1e2d3a4b5c6d",
+    "name": "Microwave Oven",
+    "description": "Compact microwave for quick heating and cooking.",
+    "price": 89.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Aiden", "text": "Convenient and easy to use for reheating." },
+      {
+        "user": "Sofia",
+        "text": "Fits well in any kitchen and works efficiently."
+      }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "0z1a2b3c4d-1e2d3a4b5c6d7e",
+    "name": "Coffee Maker",
+    "description": "Automatic coffee maker for brewing your favorite coffee.",
+    "price": 79.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Liam", "text": "Makes a great cup of coffee every morning." },
+      { "user": "Ava", "text": "Easy to use and clean." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "23b3c4d5-6e7f-8a9b-1c2d3a4b5e6f",
+    "name": "Blender",
+    "description": "High-speed blender for making smoothies and shakes.",
+    "price": 59.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Lucas", "text": "Excellent blending performance!" },
+      { "user": "Mia", "text": "Easy to clean and use." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "24b5c6d7-8e9f0a1b2-3c4d5e6f7a8b9c",
+    "name": "Coffee Maker",
+    "description": "Drip coffee maker for brewing your favorite coffee.",
+    "price": 39.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Emma", "text": "Great coffee maker for the price." },
+      { "user": "Noah", "text": "Makes a perfect cup of coffee every time." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "25c6d7e8f9-0a1b2c3d4a5b6e7f8a9b",
+    "name": "Microwave Oven",
+    "description": "Countertop microwave oven for quick reheating and cooking.",
+    "price": 69.99,
+    "category_id": "e8f9c0a1e2-1d2a3b4c5d6e7f",
+    "category_name": "Kitchen",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Liam", "text": "Convenient and easy to use." },
+      { "user": "Olivia", "text": "Works well for my daily needs." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "26d7e8f9a0-1b2c3d4a5b6e7f8a9b0c",
+    "name": "Dining Table",
+    "description": "Elegant dining table for family gatherings and meals.",
+    "price": 299.99,
+    "category_id": "2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Furniture",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "James", "text": "Beautiful and sturdy dining table." },
+      { "user": "Sophia", "text": "Perfect for hosting guests." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "27e8f9a0b1-2c3d4a5b6e7f8a9b0c1d",
+    "name": "Sofa",
+    "description": "Comfortable sofa for your living room or lounge.",
+    "price": 499.99,
+    "category_id": "2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Furniture",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Benjamin", "text": "Excellent value for the price." },
+      { "user": "Isabella", "text": "Very comfortable and stylish." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "28f9a0b1c2-3d4a5b6e7f8a9b0c1d2",
+    "name": "Bed Frame",
+    "description": "Sturdy bed frame for a good night's sleep.",
+    "price": 199.99,
+    "category_id": "2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Furniture",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Henry", "text": "Easy to assemble and very durable." },
+      { "user": "Ava", "text": "Looks great in my bedroom." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "29a0b1c2d3-4a5b6e7f8a9b0c1d2a3",
+    "name": "Recliner Chair",
+    "description": "Comfortable recliner chair for relaxation and comfort.",
+    "price": 249.99,
+    "category_id": "2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Furniture",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Michael", "text": "Great for movie nights!" },
+      { "user": "Emily", "text": "Extremely comfortable." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "20b1c2d3a4-5b6e7f8a9b0c1d2a3",
+    "name": "Wardrobe",
+    "description": "Spacious wardrobe for organizing your clothes and accessories.",
+    "price": 299.99,
+    "category_id": "2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Furniture",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Daniel", "text": "Plenty of storage space." },
+      { "user": "Sofia", "text": "Looks great in my bedroom." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "21c2d3a4b5-6e7f8a9b0c1d2a3",
+    "name": "Dresser",
+    "description": "Elegant dresser for your bedroom with multiple drawers.",
+    "price": 199.99,
+    "category_id": "2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Furniture",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Christopher", "text": "High-quality dresser." },
+      { "user": "Avery", "text": "Great addition to my bedroom." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "22d3a4b5c6-7e8f9a0b1c2d3a4b5e6f",
+    "name": "Washing Machine",
+    "description": "Front-loading washing machine with multiple wash cycles.",
+    "price": 499.99,
+    "category_id": "2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7",
+    "category_name": "Furniture",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "David", "text": "Efficient and easy to use." },
+      { "user": "Ella", "text": "Cleans clothes thoroughly." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "23e4f5a6b7-8c9d0a1b2c3d4a5b6e7f",
+    "name": "Smart TV",
+    "description": "Smart TV with streaming and app capabilities.",
+    "price": 699.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Jackson", "text": "Great picture quality and features." },
+      { "user": "Scarlett", "text": "Easy to connect to streaming services." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "24f5a6b7c8-9d0a1b2c3d4a5b6e7f8a9b",
+    "name": "Laptop",
+    "description": "High-performance laptop for work and entertainment.",
+    "price": 899.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Jack", "text": "Fast and reliable laptop." },
+      { "user": "Evelyn", "text": "Great for gaming and work." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "25g6h7i8j9-0k1l2m3n4o5p6q7r8s9t0u",
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker for music on the go.",
+    "price": 49.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "William", "text": "Impressive sound quality for its size." },
+      { "user": "Grace", "text": "Easy to pair with devices." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "26j7k8l9m0-1n2o3p4q5r6s7t8u9v0w1x2y3z4a5b6",
+    "name": "Headphones",
+    "description": "Over-ear headphones for immersive audio experiences.",
+    "price": 79.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Oliver", "text": "Great comfort and sound quality." },
+      { "user": "Chloe", "text": "Noise-cancelling feature works well." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "27s8t9u0v1-2w3x4y5z6a7b8c9d0e1f2g3h4i5j6",
+    "name": "Tablet",
+    "description": "High-resolution tablet for entertainment and productivity.",
+    "price": 299.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Lucas", "text": "Excellent blending performance!" },
+      { "user": "Mia", "text": "Easy to clean and use." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "28t9u0v1w2-3x4y5z6a7b8c9d0e1f2g3h4i5j6k7",
+    "name": "Digital Camera",
+    "description": "Digital camera for capturing high-quality photos and videos.",
+    "price": 399.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Mason", "text": "Great camera for photography enthusiasts." },
+      { "user": "Lily", "text": "Easy to use and produces excellent images." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "29u0v1w2x3-4y5z6a7b8c9d0e1f2g3h4i5j6k7l8",
+    "name": "Smartphone",
+    "description": "High-performance smartphone with advanced features.",
+    "price": 699.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Aiden", "text": "Great value for a flagship phone." },
+      { "user": "Zoe", "text": "Impressive camera and performance." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "20v1w2x3y4-5z6a7b8c9d0e1f2g3h4i5j6k7l8m9",
+    "name": "Gaming Console",
+    "description": "High-powered gaming console for immersive gaming experiences.",
+    "price": 399.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": "Caden",
+        "text": "Fantastic gaming console with a great library of games."
+      },
+      { "user": "Mila", "text": "Smooth and responsive gameplay." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "21w2x3y4z5-6a7b8c9d0e1f2g3h4i5j6k7l8m9n0",
+    "name": "Robot Vacuum",
+    "description": "Robotic vacuum cleaner for automated cleaning of your home.",
+    "price": 249.99,
+    "category_id": "c1e2d3b4-a5a6-47c7-9e8d-1f2b3c4a5e6f",
+    "category_name": "Electronics",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Grayson", "text": "Saves time and keeps my floors clean." },
+      { "user": "Hannah", "text": "Easy to set up and operate." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "22x3y4z5a6-7b8c9d0e1f2g3h4i5j6k7l8m9n0o1",
+    "name": "Fitness Tracker",
+    "description": "Fitness tracker for monitoring your health and workouts.",
+    "price": 79.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Liam", "text": "Accurate tracking and great app features." },
+      { "user": "Olivia", "text": "Helps me stay motivated to exercise." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "23y4z5a6b7-8c9d0e1f2g3h4i5j6k7l8m9n0o1p2",
+    "name": "Treadmill",
+    "description": "High-quality treadmill for home workouts and running.",
+    "price": 799.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "user": "Noah",
+        "text": "Solid and reliable treadmill for my daily runs."
+      },
+      { "user": "Emma", "text": "Easy to use and great for indoor workouts." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "24z5a6b7c8-9d0e1f2g3h4i5j6k7l8m9n0o1p2q3",
+    "name": "Basketball",
+    "description": "Official-sized basketball for basketball enthusiasts.",
+    "price": 19.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Liam", "text": "Great grip and durability." },
+      { "user": "Olivia", "text": "Perfect for outdoor games." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "25a6b7c8d9-0e1f2g3h4i5j6k7l8m9n0o1p2q3r4",
+    "name": "Mountain Bike",
+    "description": "High-performance mountain bike for outdoor adventures.",
+    "price": 349.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "user": "William",
+        "text": "Smooth and sturdy bike for rough terrains."
+      },
+      { "user": "Grace", "text": "Great for off-road trails." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "26b7c8d9e0-1f2g3h4i5j6k7l8m9n0o1p2q3r4s5",
+    "name": "Soccer Ball",
+    "description": "Classic soccer ball for practicing and playing soccer.",
+    "price": 14.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "David", "text": "Durable and suitable for all ages." },
+      { "user": "Ella", "text": "Great for pickup games with friends." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "27c8d9e0f1-2g3h4i5j6k7l8m9n0o1p2q3r4s5t6",
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat for yoga and fitness routines.",
+    "price": 24.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Michael", "text": "Comfortable and easy to clean." },
+      { "user": "Emily", "text": "Great for my daily yoga practice." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "28d9e0f1g2-3h4i5j6k7l8m9n0o1p2q3r4s5t6u7",
+    "name": "Hiking Boots",
+    "description": "Durable hiking boots for outdoor adventures and hikes.",
+    "price": 69.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Daniel", "text": "Comfortable and great for long hikes." },
+      { "user": "Sofia", "text": "Durable and provides good ankle support." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "29e0f1g2h3-4i5j6k7l8m9n0o1p2q3r4s5t6u7v8",
+    "name": "Tennis Racket",
+    "description": "Professional tennis racket for tennis enthusiasts.",
+    "price": 89.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Christopher", "text": "Excellent control and power." },
+      { "user": "Avery", "text": "Great for competitive matches." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "20f1g2h3i4-5j6k7l8m9n0o1p2q3r4s5t6u7v8w9",
+    "name": "Baseball Glove",
+    "description": "Quality baseball glove for baseball and softball players.",
+    "price": 29.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Aiden", "text": "Great fit and durability." },
+      { "user": "Zoe", "text": "Perfect for catching and fielding." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "21g2h3i4j5-6k7l8m9n0o1p2q3r4s5t6u7v8w9x0",
+    "name": "Camping Tent",
+    "description": "Spacious camping tent for outdoor adventures and camping trips.",
+    "price": 149.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "user": "Caden",
+        "text": "Easy to set up and provides good protection."
+      },
+      { "user": "Mila", "text": "Spacious and comfortable for camping." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "22h3i4j5k6-7l8m9n0o1p2q3r4s5t6u7v8w9x0y1",
+    "name": "Fishing Rod",
+    "description": "Quality fishing rod for fishing enthusiasts.",
+    "price": 49.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Grayson", "text": "Casts well and handles fish nicely." },
+      { "user": "Hannah", "text": "Great for a day of fishing." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "23i4j5k6l7-8m9n0o1p2q3r4s5t6u7v8w9x0y1z2",
+    "name": "Snowboard",
+    "description": "Snowboard for snowboarding adventures and winter sports.",
+    "price": 199.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Liam", "text": "Smooth and fast on the slopes." },
+      { "user": "Olivia", "text": "Great for downhill runs." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "24j5k6l7m8-9n0o1p2q3r4s5t6u7v8w9x0y1z2a3",
+    "name": "Golf Clubs",
+    "description": "Complete set of golf clubs for golfing enthusiasts.",
+    "price": 299.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "William", "text": "Excellent quality and a great value." },
+      { "user": "Grace", "text": "Perfect for golfers of all levels." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "25k6l7m8n9-0o1p2q3r4s5t6u7v8w9x0y1z2a3b4",
+    "name": "Puzzle Game",
+    "description": "Challenging puzzle game for entertainment and brain training.",
+    "price": 19.99,
+    "category_id": "6f7-2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5",
+    "category_name": "Toys & Games",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Benjamin", "text": "Addictive and fun to solve." },
+      { "user": "Isabella", "text": "Great for family game nights." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "26l7m8n9o0-1p2q3r4s5t6u7v8w9x0y1z2a3b4c5",
+    "name": "Board Game",
+    "description": "Classic board game for family and friends to enjoy.",
+    "price": 29.99,
+    "category_id": "6f7-2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5",
+    "category_name": "Toys & Games",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "James", "text": "Hours of entertainment for all ages." },
+      { "user": "Sophia", "text": "A must-have for game nights." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "27m8n9o0p1-2q3r4s5t6u7v8w9x0y1z2a3b4c5d6",
+    "name": "Lego Set",
+    "description": "Creative Lego set for building and imaginative play.",
+    "price": 39.99,
+    "category_id": "6f7-2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5",
+    "category_name": "Toys & Games",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Benjamin", "text": "Endless possibilities for building." },
+      { "user": "Isabella", "text": "Great for kids' creativity." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "28n9o0p1q2-3r4s5t6u7v8w9x0y1z2a3b4c5d6e7",
+    "name": "Dollhouse",
+    "description": "Beautiful dollhouse for imaginative play and decoration.",
+    "price": 49.99,
+    "category_id": "6f7-2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5",
+    "category_name": "Toys & Games",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Henry", "text": "Well-crafted and perfect for play." },
+      { "user": "Ava", "text": "Girls love it!" }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "29o0p1q2r3-4s5t6u7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Remote Control Car",
+    "description": "Fun remote control car for racing and play.",
+    "price": 24.99,
+    "category_id": "6f7-2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5",
+    "category_name": "Toys & Games",
+    "imageUrl": "",
+    "rating": 4.2,
+    "reviews": [
+      { "user": "Leo", "text": "Fast and entertaining for kids." },
+      { "user": "Luna", "text": "Easy to control and durable." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "20p1q2r3s4-5t6u7v8w9x0y1z2a3b4c5d6e7f8",
+    "name": "Building Blocks",
+    "description": "Educational building blocks for creative play and learning.",
+    "price": 19.99,
+    "category_id": "6f7-2a3b4c5d6e7f-8b9c0a1e2-4f3a4b5",
+    "category_name": "Toys & Games",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Liam", "text": "Encourages creativity and problem-solving." },
+      { "user": "Olivia", "text": "Great for kids' development." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "30p1q2r3s4-5t6u7v8w9x0y1z2a3b4c5d6",
+    "name": "Men's Jeans",
+    "description": "Classic denim jeans for a stylish look.",
+    "price": 49.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Michael", "text": "Great fit and quality." },
+      { "user": "Sophia", "text": "Versatile and comfortable." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "31q2r3s4t5-6u7v8w9x0y1z2a3b4c5d6e7",
+    "name": "Women's Dress",
+    "description": "Elegant dress for formal occasions and parties.",
+    "price": 69.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Oliver", "text": "Beautiful and comfortable." },
+      { "user": "Chloe", "text": "Perfect for special events." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "32r3s4t5u6-7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Kids' T-Shirt",
+    "description": "Comfortable t-shirt for kids' everyday wear.",
+    "price": 19.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "David", "text": "Durable and cute designs." },
+      { "user": "Ella", "text": "Great for playtime." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "33s4t5u6v7-8w9x0y1z2a3b4c5d6e7f",
+    "name": "Men's Hoodie",
+    "description": "Warm and stylish hoodie for men's casual wear.",
+    "price": 39.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Liam", "text": "Cozy and well-made." },
+      { "user": "Olivia", "text": "Perfect for chilly days." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "34t5u6v7w8-9x0y1z2a3b4c5d6e7f",
+    "name": "Women's Shoes",
+    "description": "Fashionable shoes for women's footwear collection.",
+    "price": 59.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "William", "text": "Stylish and comfortable." },
+      { "user": "Grace", "text": "Fits perfectly and looks great." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "35u6v7w8x9-0y1z2a3b4c5d6e7f",
+    "name": "Kids' Jeans",
+    "description": "Durable denim jeans for active kids.",
+    "price": 29.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Benjamin", "text": "Great for rough play." },
+      { "user": "Isabella", "text": "Durable and stylish." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "36v7w8x9y0-1z2a3b4c5d6e7f",
+    "name": "Men's Suit",
+    "description": "Elegant men's suit for formal events and business.",
+    "price": 79.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Aiden", "text": "Sharp and well-fitted." },
+      { "user": "Zoe", "text": "Impressive quality for the price." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "37w8x9y0z1-2a3b4c5d6e7f",
+    "name": "Women's Blouse",
+    "description": "Stylish blouse for women's fashion wardrobe.",
+    "price": 29.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Caden", "text": "Great fit and versatile." },
+      { "user": "Mila", "text": "Perfect for both casual and formal." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "38x9y0z1a2-3b4c5d6e7f",
+    "name": "Kids' Pajamas",
+    "description": "Comfortable pajama set for kids' bedtime.",
+    "price": 19.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Daniel", "text": "Soft and cozy for a good night's sleep." },
+      { "user": "Sofia", "text": "Adorable designs and quality." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "39y0z1a2b3-4c5d6e7f",
+    "name": "Men's Athletic Shorts",
+    "description": "Breathable athletic shorts for men's workouts and sports.",
+    "price": 24.99,
+    "category_id": "4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b",
+    "category_name": "Clothing",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "user": "Christopher",
+        "text": "Perfect for running and gym sessions."
+      },
+      { "user": "Avery", "text": "Comfortable and durable." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "40p1q2r3s4-5t6u7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Camping Backpack",
+    "description": "Spacious backpack for outdoor adventures and hiking.",
+    "price": 49.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Michael", "text": "Comfortable and durable." },
+      { "user": "Emily", "text": "Plenty of storage space." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "41q2r3s4t5-6u7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Outdoor Tent",
+    "description": "Sturdy tent for camping and outdoor shelter.",
+    "price": 79.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Oliver", "text": "Easy setup and spacious." },
+      { "user": "Chloe", "text": "Great for camping trips." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "42r3s4t5u6-7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Bicycle Helmet",
+    "description": "Protective helmet for safe cycling adventures.",
+    "price": 29.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "David", "text": "Comfortable and adjustable fit." },
+      { "user": "Ella", "text": "Safety first for cyclists." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "43s4t5u6v7-8w9x0y1z2a3b4c5d6e7f",
+    "name": "Fishing Tackle Box",
+    "description": "Organized tackle box for fishing gear and lures.",
+    "price": 34.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Liam", "text": "Plenty of compartments for gear." },
+      { "user": "Olivia", "text": "Durable and practical." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "44t5u6v7w8-9x0y1z2a3b4c5d6e7f",
+    "name": "Soccer Ball",
+    "description": "High-quality soccer ball for soccer enthusiasts.",
+    "price": 19.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "William", "text": "Great for practice and games." },
+      { "user": "Grace", "text": "Durable and reliable." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "45u6v7w8x9-0y1z2a3b4c5d6e7f",
+    "name": "Camping Cookware Set",
+    "description": "Compact cookware set for camping and outdoor cooking.",
+    "price": 29.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Aiden", "text": "Convenient and easy to use." },
+      { "user": "Zoe", "text": "Essential for camping trips." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "46v7w8x9y0-1z2a3b4c5d6e7f",
+    "name": "Golf Balls",
+    "description": "Quality golf balls for golfing enthusiasts.",
+    "price": 24.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.3,
+    "reviews": [
+      { "user": "Christopher", "text": "Excellent performance on the course." },
+      { "user": "Avery", "text": "Great value for the price." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "47w8x9y0z1-2a3b4c5d6e7f",
+    "name": "Hiking Backpack",
+    "description": "Durable backpack for hiking and outdoor adventures.",
+    "price": 39.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Benjamin", "text": "Comfortable and versatile for hikes." },
+      { "user": "Isabella", "text": "Great for outdoor enthusiasts." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "48x9y0z1a2-3b4c5d6e7f",
+    "name": "Basketball",
+    "description": "Official-size basketball for basketball players.",
+    "price": 29.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Daniel", "text": "Excellent grip and performance." },
+      { "user": "Sofia", "text": "Perfect for pickup games." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "49y0z1a2b3-4c5d6e7f",
+    "name": "Running Shoes",
+    "description": "Comfortable running shoes for runners and joggers.",
+    "price": 49.99,
+    "category_id": "1e2-4f3a4b5e6f7-2a3b4c5d6e7f-8b9c0a",
+    "category_name": "Sports & Outdoors",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Caden", "text": "Lightweight and supportive." },
+      { "user": "Mila", "text": "Great for long runs." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "50p1q2r3s4-5t6u7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Outdoor Patio Set",
+    "description": "Complete patio furniture set for outdoor relaxation.",
+    "price": 599.99,
+    "category_id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+    "category_name": "Home & Garden",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Michael", "text": "High-quality and comfortable." },
+      { "user": "Emily", "text": "Transformed our outdoor space." },
+      { "user": "Oliver", "text": "Sturdy and stylish." },
+      { "user": "Chloe", "text": "Perfect for outdoor gatherings." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "51q2r3s4t5-6u7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Indoor Plant Stand",
+    "description": "Decorative plant stand for indoor plant display.",
+    "price": 49.99,
+    "category_id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+    "category_name": "Home & Garden",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "David", "text": "Beautiful addition to our home." },
+      { "user": "Ella", "text": "Well-made and easy to assemble." },
+      { "user": "Liam", "text": "Great for showcasing plants." },
+      { "user": "Olivia", "text": "Fits in any room decor." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "52r3s4t5u6-7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Lawn Mower",
+    "description": "Powerful lawn mower for a well-manicured lawn.",
+    "price": 299.99,
+    "category_id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+    "category_name": "Home & Garden",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Michael", "text": "Efficient and easy to use." },
+      { "user": "Emily", "text": "Keeps the lawn looking great." },
+      { "user": "Oliver", "text": "Impressed with the performance." },
+      { "user": "Chloe", "text": "A must-have for homeowners." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "53s4t5u6v7-8w9x0y1z2a3b4c5d6e7f",
+    "name": "Outdoor Grill",
+    "description": "Durable outdoor grill for barbecues and cookouts.",
+    "price": 249.99,
+    "category_id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+    "category_name": "Home & Garden",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Liam", "text": "Great for grilling parties." },
+      { "user": "Olivia", "text": "Easy to clean and use." },
+      { "user": "William", "text": "Impressive heat control." },
+      { "user": "Grace", "text": "Quality grill for the price." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "54t5u6v7w8-9x0y1z2a3b4c5d6e7f",
+    "name": "Indoor Ceiling Fan",
+    "description": "Ceiling fan with lights for indoor cooling and lighting.",
+    "price": 89.99,
+    "category_id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+    "category_name": "Home & Garden",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "William", "text": "Quiet and effective cooling." },
+      { "user": "Grace", "text": "Beautiful addition to the room." },
+      { "user": "Michael", "text": "Easy to install and use." },
+      { "user": "Emily", "text": "Great value for the price." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "55u6v7w8x9-0y1z2a3b4c5d6e7f",
+    "name": "Gardening Tools Set",
+    "description": "Complete set of gardening tools for gardening enthusiasts.",
+    "price": 39.99,
+    "category_id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+    "category_name": "Home & Garden",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "David", "text": "Durable and functional tools." },
+      { "user": "Ella", "text": "Made gardening a breeze." },
+      { "user": "Liam", "text": "High-quality set for any gardener." },
+      { "user": "Olivia", "text": "Great gift for gardeners." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "56v7w8x9y0-1z2a3b4c5d6e7f",
+    "name": "Electric Pressure Washer",
+    "description": "Powerful pressure washer for cleaning driveways and more.",
+    "price": 199.99,
+    "category_id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+    "category_name": "Home & Garden",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Liam", "text": "Cleans like a pro." },
+      { "user": "Olivia", "text": "Efficient and easy to operate." },
+      { "user": "William", "text": "Great for outdoor cleaning." },
+      { "user": "Grace", "text": "Saves time and effort." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "57w8x9y0z1-2a3b4c5d6e7f",
+    "name": "Bedroom Set",
+    "description": "Complete bedroom furniture set for a cozy bedroom.",
+    "price": 799.99,
+    "category_id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+    "category_name": "Home & Garden",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Benjamin", "text": "High-quality furniture." },
+      { "user": "Isabella", "text": "Transformed our bedroom." },
+      { "user": "Michael", "text": "Stylish and comfortable." },
+      { "user": "Emily", "text": "Excellent value for the price." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "58x9y0z1a2-3b4c5d6e7f",
+    "name": "Robot Vacuum Cleaner",
+    "description": "Smart robot vacuum for automated home cleaning.",
+    "price": 299.99,
+    "category_id": "8b9c0a1e2-4f3a4b5e6f7-2a3b4c5d6e7f",
+    "category_name": "Home & Garden",
+    "imageUrl": "",
+    "rating": 4.9,
+    "reviews": [
+      { "user": "David", "text": "Saves time and keeps floors clean." },
+      { "user": "Ella", "text": "Convenient and efficient." },
+      { "user": "Liam", "text": "Impressive cleaning performance." },
+      { "user": "Olivia", "text": "A must-have for busy households." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "60p1q2r3s4-5t6u7v8w9x0y1z2a",
+    "name": "Fiction Bestsellers",
+    "description": "A collection of the latest fiction bestsellers.",
+    "price": 24.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Aiden", "text": "Great selection of novels." },
+      { "user": "Zoe", "text": "Kept me engaged for hours." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "61q2r3s4t5-6u7v8w9x0y1z2a",
+    "name": "Non-Fiction Bestsellers",
+    "description": "A collection of the latest non-fiction bestsellers.",
+    "price": 29.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Caden", "text": "Informative and thought-provoking." },
+      { "user": "Mila", "text": "A great addition to my library." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "62r3s4t5u6-7v8w9x0y1z2a",
+    "name": "Classic Literature",
+    "description": "Timeless classics from renowned authors.",
+    "price": 19.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Daniel", "text": "A must-read for literature lovers." },
+      { "user": "Sofia", "text": "Beautifully bound and a joy to read." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "63s4t5u6v7-8w9x0y1z2a",
+    "name": "Mystery Novels",
+    "description": "Suspenseful mystery novels for thrill-seekers.",
+    "price": 24.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Christopher", "text": "Kept me guessing until the end." },
+      { "user": "Avery", "text": "A great addition to my collection." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "64t5u6v7w8-9x0y1z2a3b4c5d6e7f",
+    "name": "Self-Help Guides",
+    "description": "Empowering self-help guides for personal growth.",
+    "price": 19.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Michael", "text": "Inspirational and transformative." },
+      { "user": "Emily", "text": "A guide to a better life." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "65u6v7w8x9-0y1z2a3b4c5d6e7f",
+    "name": "Science Fiction Novels",
+    "description": "Imaginative science fiction novels for fans of the genre.",
+    "price": 29.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Oliver", "text": "Epic tales of the future." },
+      { "user": "Chloe", "text": "A must-read for sci-fi enthusiasts." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "66v7w8x9y0-1z2a3b4c5d6e7f",
+    "name": "Cookbook Collection",
+    "description": "A collection of diverse cookbooks for culinary adventures.",
+    "price": 24.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Liam", "text": "Delicious recipes from around the world." },
+      { "user": "Olivia", "text": "Inspired me to become a better cook." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "67w8x9y0z1-2a3b4c5d6e7f",
+    "name": "Biography Collection",
+    "description": "Compelling biographies of remarkable individuals.",
+    "price": 29.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "William", "text": "Inspirational life stories." },
+      { "user": "Grace", "text": "A journey through history." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "68x9y0z1a2-3b4c5d6e7f",
+    "name": "Children's Storybooks",
+    "description": "Enchanting storybooks for young readers and parents.",
+    "price": 19.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.4,
+    "reviews": [
+      { "user": "Daniel", "text": "Captivating stories for kids." },
+      { "user": "Sofia", "text": "Quality time with my children." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "69y0z1a2b3-4c5d6e7f",
+    "name": "Poetry Anthology",
+    "description": "A collection of poetic works from various poets.",
+    "price": 24.99,
+    "category_id": "3b4c5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a",
+    "category_name": "Books",
+    "imageUrl": "",
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Caden", "text": "Beautiful verses that touch the soul." },
+      { "user": "Mila", "text": "A treasure trove of emotions." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "70p1q2r3s4-5t6u7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Diamond Solitaire Ring",
+    "description": "Elegant diamond solitaire ring for special occasions.",
+    "price": 1999.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Aiden", "text": "Exquisite and beautifully crafted." },
+      { "user": "Zoe", "text": "A symbol of everlasting love." },
+      { "user": "Ava", "text": "Simply stunning." },
+      { "user": "Ethan", "text": "She said 'yes'!" }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "71q2r3s4t5-6u7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Pearl Necklace",
+    "description": "Timeless pearl necklace with a delicate chain.",
+    "price": 599.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Caden", "text": "Classic and elegant." },
+      { "user": "Mila", "text": "Perfect for special occasions." },
+      { "user": "Liam", "text": "A timeless piece." },
+      { "user": "Olivia", "text": "Exudes sophistication." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "72r3s4t5u6-7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Sapphire Earrings",
+    "description": "Exquisite sapphire earrings with a touch of luxury.",
+    "price": 799.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Daniel", "text": "Mesmerizing blue sapphires." },
+      { "user": "Sofia", "text": "Elegance personified." },
+      { "user": "Aria", "text": "A true statement piece." },
+      { "user": "Leo", "text": "Absolutely stunning." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "73s4t5u6v7-8w9x0y1z2a3b4c5d6e7f",
+    "name": "Gold Bracelet",
+    "description": "Radiant gold bracelet with intricate detailing.",
+    "price": 699.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Avery", "text": "A timeless piece of art." },
+      { "user": "Ella", "text": "Adds a touch of glamour." },
+      { "user": "Noah", "text": "Perfect for any occasion." },
+      { "user": "Mia", "text": "Brilliant craftsmanship." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "74t5u6v7w8-9x0y1z2a3b4c5d6e7f",
+    "name": "Emerald Pendant",
+    "description": "Elegant emerald pendant with a fine chain.",
+    "price": 499.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Aria", "text": "Captivating green emerald." },
+      { "user": "Leo", "text": "Simply breathtaking." },
+      { "user": "Aria", "text": "A gift that dazzles." },
+      { "user": "Leo", "text": "Unparalleled beauty." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "75u6v7w8x9-0y1z2a3b4c5d6e7f",
+    "name": "Silver Hoop Earrings",
+    "description": "Stylish silver hoop earrings for a modern look.",
+    "price": 79.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.6,
+    "reviews": [
+      { "user": "Noah", "text": "Perfect everyday earrings." },
+      { "user": "Mia", "text": "Sleek and chic." },
+      { "user": "Avery", "text": "Affordable and stylish." },
+      { "user": "Ella", "text": "A must-have accessory." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "76v7w8x9y0-1z2a3b4c5d6e7f",
+    "name": "Ruby Ring",
+    "description": "Gorgeous ruby ring with a captivating red gemstone.",
+    "price": 899.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Mia", "text": "The color is breathtaking." },
+      { "user": "Avery", "text": "A true showstopper." },
+      { "user": "Ella", "text": "Absolutely in love with it." },
+      { "user": "Noah", "text": "Unforgettable elegance." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "77w8x9y0z1-2a3b4c5d6e7f",
+    "name": "Tanzanite Earrings",
+    "description": "Exquisite tanzanite earrings with a touch of royalty.",
+    "price": 749.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Ethan", "text": "Absolutely stunning gemstones." },
+      { "user": "Ava", "text": "Elegance at its finest." },
+      { "user": "Zoe", "text": "A royal touch to any outfit." },
+      { "user": "Aiden", "text": "A true gem lover's delight." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "78x9y0z1a2-3b4c5d6e7f",
+    "name": "Rose Gold Bracelet",
+    "description": "Charming rose gold bracelet with intricate design.",
+    "price": 599.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Ava", "text": "Delicate and beautiful." },
+      { "user": "Ethan", "text": "A perfect gift for loved ones." },
+      { "user": "Zoe", "text": "Timeless elegance in rose gold." },
+      { "user": "Aiden", "text": "Adds grace to any wrist." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "79y0z1a2b3-4c5d6e7f",
+    "name": "Diamond Stud Earrings",
+    "description": "Classic diamond stud earrings for everyday elegance.",
+    "price": 1299.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Aiden", "text": "Timeless and versatile." },
+      { "user": "Zoe", "text": "Elegant and stunning." },
+      { "user": "Ava", "text": "A must-have for any jewelry collection." },
+      { "user": "Ethan", "text": "Shines with brilliance." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "80p1q2r3s4-5t6u7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Amethyst Pendant",
+    "description": "Graceful amethyst pendant with a touch of charm.",
+    "price": 499.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Caden", "text": "A symbol of spirituality." },
+      { "user": "Mila", "text": "Mesmerizing purple amethyst." },
+      { "user": "Liam", "text": "Perfect for gifting." },
+      { "user": "Olivia", "text": "A gem of inner peace." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "81q2r3s4t5-6u7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Gold Bangle Bracelet",
+    "description": "Elegant gold bangle bracelet with intricate patterns.",
+    "price": 699.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Caden", "text": "A touch of luxury." },
+      { "user": "Mila", "text": "Beautiful craftsmanship." },
+      { "user": "Liam", "text": "A piece of art on your wrist." },
+      { "user": "Olivia", "text": "Perfect for special occasions." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "82r3s4t5u6-7v8w9x0y1z2a3b4c5d6e7f",
+    "name": "Citrine Earrings",
+    "description": "Radiant citrine earrings with a touch of sunshine.",
+    "price": 749.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Daniel", "text": "Brings warmth and positivity." },
+      { "user": "Sofia", "text": "A symbol of joy and abundance." },
+      { "user": "Aria", "text": "Beautifully complemented my outfit." },
+      { "user": "Leo", "text": "Absolutely stunning." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "83s4t5u6v7-8w9x0y1z2a3b4c5d6e7f",
+    "name": "Platinum Wedding Band",
+    "description": "Timeless platinum wedding band for a lifetime of love.",
+    "price": 999.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Ethan", "text": "Symbolizes everlasting commitment." },
+      { "user": "Ava", "text": "A perfect choice for a wedding." },
+      { "user": "Zoe", "text": "Classic and beautiful." },
+      { "user": "Aiden", "text": "An heirloom piece." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "84t5u6v7w8-9x0y1z2a3b4c5d6e7f",
+    "name": "Opal Ring",
+    "description": "Captivating opal ring with an iridescent gemstone.",
+    "price": 799.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Avery", "text": "A true work of art." },
+      { "user": "Ella", "text": "Mesmerizing colors and shine." },
+      { "user": "Noah", "text": "An absolute stunner." },
+      { "user": "Mia", "text": "Received numerous compliments." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "85u6v7w8x9-0y1z2a3b4c5d6e7f",
+    "name": "Emerald and Diamond Necklace",
+    "description": "Exquisite emerald and diamond necklace for luxury lovers.",
+    "price": 1499.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Mia", "text": "A symbol of opulence." },
+      { "user": "Avery", "text": "A dazzling masterpiece." },
+      { "user": "Ella", "text": "Enhances my elegance." },
+      { "user": "Noah", "text": "A treasure in my collection." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "86v7w8x9y0-1z2a3b4c5d6e7f",
+    "name": "Aquamarine Bracelet",
+    "description": "Graceful aquamarine bracelet with a touch of serenity.",
+    "price": 599.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.7,
+    "reviews": [
+      { "user": "Ava", "text": "A symbol of calm and beauty." },
+      { "user": "Ethan", "text": "Elegance and tranquility." },
+      { "user": "Zoe", "text": "Perfect for every day." },
+      { "user": "Aiden", "text": "I wear it with pride." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "87w8x9y0z1-2a3b4c5d6e7f",
+    "name": "Gold and Diamond Stud Earrings",
+    "description": "Radiant gold and diamond stud earrings for timeless beauty.",
+    "price": 1399.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Zoe", "text": "Classic and elegant." },
+      { "user": "Aiden", "text": "Stunning and versatile." },
+      { "user": "Ava", "text": "Radiant and captivating." },
+      { "user": "Ethan", "text": "A treasure for a lifetime." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "88x9y0z1a2-3b4c5d6e7f",
+    "name": "Tahitian Pearl Necklace",
+    "description": "Exquisite Tahitian pearl necklace for a touch of luxury.",
+    "price": 999.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Aiden", "text": "A symbol of elegance." },
+      { "user": "Zoe", "text": "A true statement of grace." },
+      { "user": "Ava", "text": "Perfect for special occasions." },
+      { "user": "Ethan", "text": "Unparalleled beauty." }
+    ],
+    "imagesUrl": []
+  },
+  {
+    "_id": "89y0z1a2b3-4c5d6e7f",
+    "name": "Sapphire and Diamond Ring",
+    "description": "Captivating sapphire and diamond ring for a touch of luxury.",
+    "price": 1999.99,
+    "category_id": "5d6e7f-8b9c0a1e2-4f3a4b5e6f7-2a3b4c",
+    "category_name": "Jewelry",
+    "imageUrl": "",
+    "rating": 4.8,
+    "reviews": [
+      { "user": "Ella", "text": "A symbol of eternal love." },
+      { "user": "Noah", "text": "Exquisite and luxurious." },
+      { "user": "Mia", "text": "Absolutely stunning." },
+      { "user": "Avery", "text": "A true masterpiece." }
+    ],
+    "imagesUrl": []
+  }
+]
