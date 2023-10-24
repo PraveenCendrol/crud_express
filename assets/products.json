@@ -12,7 +12,10 @@
       { "user": "John", "text": "Great phone with an excellent camera." },
       { "user": "Emily", "text": "Fast and reliable performance." }
     ],
-    "imagesUrl": []
+    "imagesUrl": [
+      "1698158269298-0-Leotitle.jpg",
+      "1698158283811-0-Leotitle.jpg"
+    ]
   },
   {
     "_id": "2p3q4r5s-6t7u8v9w-0x1y2z3a4b5c6d",
